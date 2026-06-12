@@ -101,10 +101,10 @@ color: var(--text-color);
 /* HERO SECTION */
 
 .hero {
-min-height: 100vh;
+min-height: 10vh;
 display: flex;
 align-items: center;
-padding: 120px 10% 80px;
+padding: 80px 30px 80px;
 }
 
 .hero-content {
@@ -391,7 +391,7 @@ color: var(--secondary-text);
 
 
 .hero-content {
-    flex-direction: column-reverse;
+    flex-direction: column;
     text-align: center;
 }
 
@@ -414,11 +414,22 @@ color: var(--secondary-text);
 
 
 .hero-text h1 {
-    font-size: 2.8rem;
+    font-size: 2.5rem;
 }
+    .hero-text h2 {
+        font-size: 1.2rem;
+    }
 
 .hero-image img {
+    margin-top: 3px;
     width: 280px;
+}
+.hero-description {
+    max-width: 100%;
+    font-size: 0.78rem;
+}
+.university {
+    font-size: 0.9rem;
 }
 
 .section {
