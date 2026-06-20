@@ -6,7 +6,6 @@ const words = [
 "Web Development",
 "Application Development",
 "Programming",
-"Artificial Intelligence",
 ];
 
 let wordIndex = 0;
