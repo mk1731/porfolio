@@ -4,8 +4,9 @@ const words = [
 "Data Analysis",
 "Software Development",
 "Web Development",
-"Research",
-"Problem Solving"
+"Application Development",
+"Programming",
+"Artificial Intelligence",
 ];
 
 let wordIndex = 0;
